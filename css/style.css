@@ -1,0 +1,40 @@
+body {
+  background-image: url(../img/1482557423149222208.jpg);
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.gta5{
+  display: block;
+  width: 300px;
+  margin: 100px auto;
+}
+
+.spoilerButton {
+  background: #000;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 24px;
+  padding: 40px 0;
+  outline: none;
+  cursor: pointer;
+  margin: 0 auto 20px;
+  width: 480px;
+  display: block;
+}
+
+.spoiler {
+	background: #fff;
+  width: 440px;
+  margin: 0 auto 20px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 24px
+}
+.heroes {
+  color: #000000;
+  display: block;
+  padding: 10px 20px;
+}
